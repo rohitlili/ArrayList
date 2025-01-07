@@ -1,5 +1,5 @@
-# ArrayList
-ArrayList Operations in java
+# ArrayList Operations in java
+
 import java.util.*;
 public class ArrLis{
 public static void main(String args[]){
